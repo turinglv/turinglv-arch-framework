@@ -1,0 +1,14 @@
+.gradle
+.idea
+*.iws
+logs
+*.iml
+**/**/out
+**/**/build
+.DS_Store
+.project
+.settings/
+**/*.classpath
+**/bin/
+repository
+credentials.properties
